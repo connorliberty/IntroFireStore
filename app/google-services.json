@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "343787423655",
-    "project_id": "introfirestore-9964d",
-    "storage_bucket": "introfirestore-9964d.appspot.com"
+    "project_number": "989085714861",
+    "project_id": "introfirestore-6d700",
+    "storage_bucket": "introfirestore-6d700.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:343787423655:android:8e3f73792b107befbb5882",
+        "mobilesdk_app_id": "1:989085714861:android:47c0cf4def4a0c76a4f924",
         "android_client_info": {
           "package_name": "com.opsc7311.introfirestore"
         }
       },
       "oauth_client": [
         {
-          "client_id": "343787423655-p6j39v988auce7gf3vicmbfop29fne61.apps.googleusercontent.com",
+          "client_id": "989085714861-7tdhuo4pc96imkadsp8fenfkffckc1no.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDXuUiSkbAuWdGgt7Sse2nkVgI2_t-qq0I"
+          "current_key": "AIzaSyBI58OKVL5MJrh751BlZ3sdYQUshAwMZlg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "343787423655-p6j39v988auce7gf3vicmbfop29fne61.apps.googleusercontent.com",
+              "client_id": "989085714861-7tdhuo4pc96imkadsp8fenfkffckc1no.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

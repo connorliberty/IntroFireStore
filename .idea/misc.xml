@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/IntroFireStore/app/src/main/res/layout/activity_city_details.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/IntroFireStore/app/src/main/res/layout/activity_main.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/lab_services_student/AndroidStudioProjects/IntroFireStore/app/src/main/res/layout/city_item.xml" value="0.2246376811594203" />
         <entry key="..\:/android/repository/FireStore/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
       </map>
     </option>

@@ -14,12 +14,37 @@
         android:hint="@string/enter_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+
     <EditText
-        android:id="@+id/edit_text_thoughts"
-        android:hint="@string/enter_thoughts"
+        android:id="@+id/Day1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/Day1" />
+
+    <EditText
+        android:id="@+id/Day2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/Day2" />
+
+    <EditText
+        android:id="@+id/Day3"
+        android:hint="@string/Day3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-    
+
+    <EditText
+        android:id="@+id/Day4"
+        android:hint="@string/Day4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/Day5"
+        android:hint="@string/Day5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
     <Button
         android:id="@+id/save_button"
         android:text="@string/save"

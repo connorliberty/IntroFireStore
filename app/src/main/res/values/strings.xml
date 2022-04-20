@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">IntroFireStore</string>
-    <string name="enter_title">Enter Title</string>
+    <string name="enter_title">Enter City</string>
     <string name="save">Save</string>
-    <string name="enter_thoughts">Enter thoughts</string>
+    <string name="Day1">Day 1</string>
     <string name="show_datatext">Show Data</string>
     <string name="update_data">Update all! </string>
     <string name="delete_thought">Delete Thought</string>
+    <string name="Day2">Day2</string>
+    <string name="Day3">Day3</string>
+    <string name="Day4">Day4</string>
+    <string name="Day5">Day5</string>
 </resources>
